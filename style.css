@@ -136,7 +136,7 @@ body {
 @media (max-width: 575.98px) {
   .main-layout {
     flex-direction: column;
-    height: auto;
+    height: 100vh;
     margin-top: 20px;
     margin-bottom: 20px;
   }
